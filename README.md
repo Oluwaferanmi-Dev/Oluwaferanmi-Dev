@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Caleb! 👋<br>Aspiring Software Developer diving into the world of HTML, CSS, JS, and Python. Join me as I code my way to innovation!<br><br>🌱 Learning: HTML, CSS, JS, Python<br><br>🚀 Goals: Crafting impactful solutions, connecting with the tech community<br><br>Let's code and create together. Thanks for visiting! 😄
+Hey, I'm Caleb! 👋<br>Aspiring Software Developer diving into the world of HTML, CSS, JS, and Python. Join me as I code my way to innovation!lost access to my old GitHub<br><br>🌱 Learning: HTML, CSS, JS, Python<br><br>🚀 Goals: Crafting impactful solutions, connecting with the tech community<br><br>Let's code and create together. Thanks for visiting! 😄
 
 
 ## 🌐 Socials:
