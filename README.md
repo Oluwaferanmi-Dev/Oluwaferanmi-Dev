@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Caleb! 👋<br>A Software Developer diving into the world of Next.js, React, JS, and Python. Join me as I code my way to innovation! PS lost access to my old GitHub<br><br>🌱 Learning: Svelte, React native, Amazon Aws<br><br>🚀 Goals: Crafting impactful solutions, connecting with the tech community<br><br>Let's code and create together. Thanks for visiting! 😄
+Hey, I'm Caleb! 👋<br>A Software Developer diving into the world of Next.js, React, JS, and Python. Join me as I code my way to innovation!<br><br>🌱 Learning: Svelte, React native, Amazon Aws<br><br>🚀 Goals: Crafting impactful solutions, connecting with the tech community<br><br>Let's code and create together. Thanks for visiting! 😄
 
 
 ## 🌐 Socials:
