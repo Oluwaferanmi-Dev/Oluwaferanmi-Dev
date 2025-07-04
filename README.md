@@ -1,5 +1,15 @@
-# 💫 About Me:
-Hey, I'm Caleb! 👋<br>A Software Developer diving into the world of Next.js, React, JS, and Python. Join me as I code my way to innovation!<br><br>🌱 Learning: Svelte, React native, Amazon Aws<br><br>🚀 Goals: Crafting impactful solutions, connecting with the tech community<br><br>Let's code and create together. Thanks for visiting! 😄
+# 👋 Hi, I'm Caleb (Oluwaferanmi Oyelowo)
+
+🚀 I'm a full-stack web developer based in Lagos, Nigeria. I specialize in building clean, responsive, and scalable web applications using modern technologies like **React**, **Node.js**, **Tailwind CSS**, and **TypeScript**.
+
+---
+
+### 🔧 Tech Stack
+- **Frontend:** React, TypeScript, Next.js, Tailwind CSS, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express, Firebase, MongoDB
+- **Tools & Platforms:** Git, GitHub, Vercel, Netlify, CMSs (Sanity, WordPress), REST APIs
+
+---
 
 
 ## 🌐 Socials:
